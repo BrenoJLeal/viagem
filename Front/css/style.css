@@ -151,12 +151,3 @@ footer{
     z-index: 1;
 }
 /*contato */
-.contato{
-    text-align: center;
-}
-.contato h1{
-    background-color: #1BB4E8;
-    margin: auto;
-    width: 600px;
-    border-radius: 5px;
-}
